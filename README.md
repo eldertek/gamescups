@@ -42,6 +42,6 @@ Les différents groupes ont présenté leurs sites à l'auditorium du Lycée Mé
 L'équipe gagnante (composée d'Ulrich, Abou, Théo Alex et Mathéo) a devancé ses concurrents d’une longueur alors que les second et troisième n’ont pu se départager que part deux petit points.
 
 # Conclusion
-GamesCups est un projet web de compétitions de jeux vidéo qui a été réalisé dans le cadre d'un concours de web design. Il fournit une plateforme de compétitions de jeux vidéo en ligne avec plusieurs fonctionnalités pour les joueurs. Le projet a été réalisé en utilisant différentes technologies telles que HTML5, CSS3, JavaScript, PHP et MySQL. L'équipe de développement a travaillé dur pour fournir une plateforme de haute qualité, tout en respectant le cahier des charges fourni par le concours.
+GamesCups est un projet web de compétitions de jeux vidéo qui a été réalisé dans le cadre d'un concours de web design. Il fournit une plateforme d'affichage des informations à propos de jeux vidéo en ligne avec plusieurs fonctionnalités. Le projet a été réalisé en utilisant différentes technologies telles que HTML5, CSS3, PHP et MySQL. L'équipe de développement a travaillé dur pour fournir une plateforme de haute qualité, tout en respectant le cahier des charges fourni par le concours.
 
 Copyright (c) 2023 André Théo LAURET - All rights reserved
