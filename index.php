@@ -1,22 +1,23 @@
-<?php require 'config/config.inc.php'; ?>
+<?php require_once __DIR__.'/config/config.inc.php'; ?>
 <!DOCTYPE html>
 <html lang="fr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>GamesCups - Accueil</title>
     <link href="assets/css/main.css" rel="stylesheet">
     <link href="assets/css/bootstrap.css" rel="stylesheet">
   </head>
   <body>
     <!-- HEADER -->
-    <?php require 'components/header.php'; ?>
-    <!-- CAROUSSEL -->
-    <?php require 'components/carrousel.php' ?>
+    <?php require __DIR__.'/components/header.php'; ?>
+    <!-- CARROUSEL -->
+    <?php require __DIR__.'/components/carrousel.php'; ?>
     <!-- ACTUALITES -->
-    <?php require 'components/news.php' ?>
+    <?php require __DIR__.'/components/news.php'; ?>
     <!-- CONTACTS & PARTENAIRES -->
-    <?php require 'components/contact.php' ?>
+    <?php require __DIR__.'/components/contact.php'; ?>
     <!-- FOOTER -->
-    <?php require 'components/footer.php' ?>
+    <?php require __DIR__.'/components/footer.php'; ?>
   </body>
 </html>
