@@ -1,0 +1,6 @@
+/config/config.local.php
+.env
+/vendor/
+*.sqlite
+*.sqlite3
+*.log
